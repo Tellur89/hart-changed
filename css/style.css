@@ -1737,7 +1737,7 @@ tr {
     .card-f__side--back {
       transform: rotateY(180deg); }
       .card-f__side--back-axe {
-        background-color: #98a789; }
+        background-color: #8f9c82; }
       .card-f__side--back-angel {
         background-color: #c79982; }
       .card-f__side--back-duke {
@@ -1816,11 +1816,11 @@ tr {
           background-color: #ffffff;
           width: 65% !important; }
           .card-f__side--front--axe {
-            border: 1rem solid #98a789; }
+            border: 1rem solid #8f9c82; }
           .card-f__side--front--angel {
             border: 1rem solid #c79982; }
           .card-f__side--front--duke {
-            border: 1rem solid #98a789; }
+            border: 1rem solid #8f9c82; }
           .card-f__side--front--swan {
             border: 1rem solid #c79982; }
         .card-f__side--back {
@@ -1844,7 +1844,7 @@ tr {
         .card-f__picture--axe {
           background-image: url(../img/axe_logo.png); }
         .card-f__picture--angel {
-          background-image: url(../img/wh_logo.png); }
+          background-image: url(../img/angel_logo.png); }
         .card-f__picture--duke {
           background-image: url(../img/duke_logo.png); }
         .card-f__picture--swan {
